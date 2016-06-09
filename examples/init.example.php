@@ -162,6 +162,11 @@ $servicesCredentials = array(
         'key'       => '',
         'secret'    => ''
     ),
+    'shopify' => array(
+        'key'       => '',
+        'secret'    => '',
+        'shop_domain' => ''
+    ),
     'soundcloud' => array(
         'key'       => '',
         'secret'    => '',
